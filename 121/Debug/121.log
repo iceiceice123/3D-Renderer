@@ -1,0 +1,9 @@
+﻿  Device.cpp
+  Geometry.cpp
+  Math.cpp
+  Screen.cpp
+d:\3d renderer\14-3_周兵_1427151086_靳宇强__软件渲染器的设计与实现\121\screen.cpp(19): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+  Transform.cpp
+  Main.cpp
+  正在生成代码...
+  121.vcxproj -> D:\3D renderer\14-3_周兵_1427151086_靳宇强__软件渲染器的设计与实现\Debug\121.exe
